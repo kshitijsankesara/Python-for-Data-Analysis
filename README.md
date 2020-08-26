@@ -4,6 +4,7 @@ For OnPoint Insights, I have developed Jupyter notebooks on Introduction to Pyth
 We used to conduct online webinars on Python programming to help business people understand Python.
 
 **1. Introduction to Python**
+
 In the introduction notebook, I have covered topics like 
 - Strings (Sorting, Partinioning)
 - Variables
