@@ -18,7 +18,8 @@ In the introduction notebook, I have covered topics like
 
 **2. Linear Regression using Sklearn**
 
-For explaining different functions of sklearn, I have used the Boston House data in Python and have build a Linear Regression model to predict the price of houses based on the different factors related to houses like Number of bedrooms, bathrooms, location, Area, etc. I have build the 
+For explaining different functions of sklearn, I have used the Boston House data in Python and have build a **Linear Regression** model to predict the price of houses based on the different factors related to houses like Number of bedrooms, bathrooms, location, Area, etc. I have build scatterplots to plot the predicted and actual values and evaluated the model using mean square errors.
+
 
 
 
