@@ -20,7 +20,19 @@ In the introduction notebook, I have covered topics like
 
 For explaining different functions of sklearn, I have used the Boston House data in Python and have build a **Linear Regression** model to predict the price of houses based on the different factors related to houses like Number of bedrooms, bathrooms, location, Area, etc. I have build scatterplots to plot the predicted and actual values and evaluated the model using mean square errors.
 
+**3. NumPy Library**
 
+In this notebook, I have covered most of the topics in the NumPy library of Python. The topics which I covered are:
+
+- Creating arrays using NumPy
+- Developing matrix of random numbers
+- Learning about data types in numpy
+- Attributes in arrays
+- One and multidimensional arrays
+- Reshaping, concatenation and splitting arrays
+- Arithmetic and Trigonometric functions on arrays
+- Broadcasting
+- Indexing
 
 
 
