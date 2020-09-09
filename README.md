@@ -41,5 +41,11 @@ In this notebook, I have covered most of the topics in the NumPy library of Pyth
 
 In this notebook, I explained the concepts of Pandas library which are used to manipulate and clean data sets. I build an own data set and explained concepts like data indexing, slicing, deleting rows and columns, and different operations which are performed on data. I explained multiple ways to handle missing data using Pandas. I also covered topics like merging, combining and joining datasets. Other important topics which were covered are Grouping data, performing aggregation functions on data, and pivot tables. 
 
+**5. PCA and PLS Regression**
+
+To perform and explain dimension reduction techniques, I have worked on Principal Component Analysis on a beverages and fruits data set. The dataset originally had 24 variables. I have made use of sklearn library to import standard scaler and pca functions. I performed PCA and created 2 principal components to retain most of the properties of the variables in the data set. I have also build scatter plots to visualize the components.
+
+I have also build a PLS regression model on a sample data set and have evaluated the model based on R^2 and mean square error. 
+
 
 
